@@ -5,8 +5,10 @@
 - <b>Java Projects</b>
  
 - <b>Full Stack Web App (React, NodeJS etc)</b>
-  [Tesla Site Clone]: https://teslasiteclone.netlify.app/#
-  Tindog : https://ttindog.netlify.app/
+
+  - Tesla Site Clone: https://teslasiteclone.netlify.app/#
+
+   - Tindog: https://ttindog.netlify.app/
   
 <h2>📺Certifications</h2>
 
