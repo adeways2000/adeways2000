@@ -8,7 +8,7 @@
 
   - Tesla Site Clone: https://teslasiteclone.netlify.app/#
 
-   - Tindog: https://ttindog.netlify.app/
+   - Tindog Application: https://ttindog.netlify.app/
   
 <h2>📺Certifications</h2>
 
