@@ -4,7 +4,7 @@
 
 - <b>Java Projects</b>
  
-- <b>Full Stack Web App (React, NodeJS etc)</b>
+- <b>Full Stack Web App (ReactJS, NodeJS etc)</b>
 
   - Tesla Site Clone: https://teslasiteclone.netlify.app/#
 
