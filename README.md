@@ -1,4 +1,4 @@
-<h1>Hi, I'm Adebisi Ayokunle! <br/><a href="https://github.com/adeways2000">Programmer</a>, <a href="(https://www.linkedin.com/in/ayokunle-adebisi-440481288">GIS Specialist/Software Engineer</a></h1>
+<h1>Hi, I'm Adebisi Ayokunle! <br/><a href="https://github.com/adeways2000">An Aspiring Programmer/Software Engineer</a>, <a href="(https://www.linkedin.com/in/ayokunle-adebisi-440481288">GIS Specialist</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
