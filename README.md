@@ -14,7 +14,9 @@ Homepage: https://personalportfolio-site.netlify.app/
   
 <h2>📺Certifications</h2>
  - Masters in Geomatics
+ 
  - Java Programming Masterclass
+   
  -	Udemy-The complete 2022 Web Development bootcamp
 
 
