@@ -5,6 +5,10 @@ Homepage: https://personalportfolio-site.netlify.app/
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Java Projects</b>
+
+- <b>AWS Cloud Projects</b>
+
+
  
 - <b>Full Stack Web App (ReactJS, NodeJS etc)</b>
 
