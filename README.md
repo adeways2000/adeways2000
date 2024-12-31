@@ -17,6 +17,8 @@ Homepage: https://personalportfolio-site.netlify.app/
    - Tindog Application: https://ttindog.netlify.app/
   
 <h2>📺Certifications</h2>
+ - DevOps Beginners to Advanced with Projects
+
  - Masters in Geomatics
  
  - Java Programming Masterclass
