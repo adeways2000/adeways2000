@@ -1,4 +1,4 @@
-<h1>Hi, I'm Adebisi Ayokunle! <br/><a href="https://github.com/adeways2000">DevOps Engineer/Software Engineer/GIS specialist</a>, <a href="(https://www.linkedin.com/in/ayokunle-adebisi-440481288">GIS Specialist</a></h1>
+<h1>Hi, I'm Adebisi Ayokunle! <br/><a href="https://github.com/adeways2000">DevOps Engineer/Software Engineer/GIS specialist</a>, <a href="(https://www.linkedin.com/in/ayokunle-adebisi-440481288"></a></h1>
 
 Homepage: https://personalportfolio-site.netlify.app/
 
