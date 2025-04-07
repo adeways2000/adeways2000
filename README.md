@@ -1,12 +1,16 @@
-<h1>Hi, I'm Adebisi Ayokunle! <br/><a href="https://github.com/adeways2000">DevOps Engineer/Software Engineer/GIS specialist</a><a href="(https://www.linkedin.com/in/ayokunle-adebisi-440481288"></a></h1>
+<h1> Hey! Nice to see you.</h1>
+
+<h1>I'm Adebisi Ayokunle! <br/><a href="https://github.com/adeways2000">Generatve AI LLM Engineer/DevOps Engineer/Java Software Engineer/GIS specialist</a><a href="(https://www.linkedin.com/in/ayokunle-adebisi-440481288"></a></h1>
 
 Homepage: https://personalportfolio-site.netlify.app/
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻I have technical experience and interest in:</h2>
 
 - <b>Java Projects</b>
-
+- <b>Generative AI<b>
 - <b>AWS Cloud Projects</b>
+- <b>Python</b>
+- <b>Geospatial Technologies/ GeoAI (QGIS, ArcGIS, Remote Sensing)</b>
 
 
  
@@ -18,6 +22,8 @@ Homepage: https://personalportfolio-site.netlify.app/
   
 <h2>📺Certifications</h2>
 
+ - 2025 Bootcamp: Generative AI, LLM Apps, AI Agents, Cursor AI
+ 
  - DevOps Beginners to Advanced with Projects
 
  - Masters in Geomatics
@@ -35,10 +41,19 @@ Homepage: https://personalportfolio-site.netlify.app/
 
 
 
-
+You can also find me on:
 [instagram]: https://www.instagram.com/ade_sensini/
 [linkedin]: https://linkedin.com/in/ayokunle-adebisi-440481288
 
+
+Languages and Tools:
+arduino bash bootstrap css3 docker flask git heroku html5 linux mongodb mysql opencv postman python pytorch scikit_learn tensorflow
+
+
+My Hobbies and interests:
+Traveling
+Singing
+Coding
 
 <!--
 **adeways2000/adeways2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
