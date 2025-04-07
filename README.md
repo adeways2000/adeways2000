@@ -46,7 +46,6 @@ You can also find me on:
 [linkedin]: https://linkedin.com/in/ayokunle-adebisi-440481288
 
 
-
 <!--
 **adeways2000/adeways2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
