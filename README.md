@@ -46,14 +46,6 @@ You can also find me on:
 [linkedin]: https://linkedin.com/in/ayokunle-adebisi-440481288
 
 
-Languages and Tools:
-arduino bash bootstrap css3 docker flask git heroku html5 linux mongodb mysql opencv postman python pytorch scikit_learn tensorflow
-
-
-My Hobbies and interests:
-Traveling
-Singing
-Coding
 
 <!--
 **adeways2000/adeways2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
